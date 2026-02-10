@@ -151,7 +151,7 @@ nav button {
     height: 280px;
     border-radius: 10px;
     position: relative;
-    background-color: red;
+    /* background-color: red; */
 }
 
 .movie img {
@@ -363,4 +363,5 @@ footer {
     nav img {
         height: 30px;
     }
+
 } */
